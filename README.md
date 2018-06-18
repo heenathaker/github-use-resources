@@ -16,12 +16,17 @@ Some resources on using github for our organization.
 
 ***Note: This is not meant to duplicate or replace other guides, like the above... they are written well and I like them. This is more to pull out our main thoughts to figure out what we're thinking and create a short version that references the more in-depth material.***
 
+Process:
+
 * Gov't should be 1 organization
 * Agencies should each be separate organizations
 * Setup a small number of Owners for the organization that will administer it
   * Team Maintainers, and other sub roles can be used to deligate authority / administration of the system (down to teams and repositories).
 * Teams should be used to create project / ministry / divisional groupings
   * these should be created to best meet the needs of indivudual projects and is not a one size fits all
+  
+Notes:
+
 * Not all staff need accounts / access, only those contributing / wanting to contribute
   * Pull Requests (PR) can still be made to open repositories even if a user is not a member of the team / organization
 * Coding / Committing practices should be based on the repository / team practices and not necessarily at the organization level
