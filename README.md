@@ -1,4 +1,5 @@
-# github-use-resources
+# Github Use Resources
+
 Some resources on using github for our organization.
 
 ## Links
