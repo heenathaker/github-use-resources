@@ -21,3 +21,5 @@ Some resources on using github for our organization.
   * these should be created to best meet the needs of indivudual projects and is not a one size fits all
 * Not all staff need accounts / access, only those contributing / wanting to contribute
   * Pull Requests (PR) can still be made to open repositories even if a user is not a member of the team / organization
+* Coding / Committing practices should be based on the repository / team practices and not necessarily at the organization level
+  * My first thought is that this would be too difficault to address at such a high level. Each project will have it's own requirements and languages have their own best practices (e.g. line endings, spaces vs. tabs, branch edicate, PRs, etc). Also, some users may be posting non-code products (e.g. this document itself) which will follow differnt rules / practices.
