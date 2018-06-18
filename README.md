@@ -14,6 +14,8 @@ Some resources on using github for our organization.
 
 ## Summary of Suggested Use
 
+***Note: This is not meant to duplicate or replace other guides, like the above... they are written well and I like them. This is more to pull out our main thoughts to figure out what we're thinking and create a short version that references the more in-depth material.***
+
 * Gov't should be 1 organization
 * Agencies should each be separate organizations
 * Setup a small number of Owners for the organization that will administer it
